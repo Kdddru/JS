@@ -2,3 +2,7 @@
 {
     display: none;
 }
+
+#todo-list{
+    list-style-type: none;
+}
